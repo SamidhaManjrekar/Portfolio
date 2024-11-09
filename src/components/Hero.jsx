@@ -35,7 +35,7 @@ export default function Hero() {
         Hello! I'm Samidha
       </Typography>
       <Typography
-        variant="h3"
+        variant="h1"
         color="text.secondary"
         fontWeight={700}
         sx={{ textTransform: "uppercase", maxWidth: "15ch" }}
@@ -43,7 +43,7 @@ export default function Hero() {
         Full-Stack Developer
       </Typography>
       <Typography
-        variant="body2"
+        variant="body1"
         color="text.secondary"
         textAlign="center"
         sx={{ maxWidth: "80ch" }}
